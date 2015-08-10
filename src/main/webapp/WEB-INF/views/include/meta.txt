@@ -1,0 +1,8 @@
+    <meta charset="UTF-8" />
+    <meta content="True" name="HandheldFriendly" />
+    <meta name="detectify-verification" content="d0264f228155c7a1f72c3d91c17ce8fb" />
+    <meta name="alexaVerifyID" content="OFc8dmwZo7ttU4UCnDh1rKDtLlY" />
+    <meta name="baidu-site-verification" content="D00WizvYyr" />
+    <meta name="msvalidate.01" content="D9B08FEA08E3DA402BF07ABAB61D77DE" />
+    <meta property="wb:webmaster" content="f2f4cb229bda06a4" />
+    <meta name="google-site-verification" content="LM_cJR94XJIqcYJeOCscGVMWdaRUvmyz6cVOqkFplaU" />
